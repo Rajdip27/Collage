@@ -1,0 +1,658 @@
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Ecommerce_MVC_Core.deps.json
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Ecommerce_MVC_Core.runtimeconfig.json
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Ecommerce_MVC_Core.Views.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Ecommerce_MVC_Core.Views.pdb
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\css\adminCss\animate.css
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\css\adminCss\bootstrap.css
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\css\adminCss\custom.css
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\css\adminCss\export.css
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\css\adminCss\font-awesome.css
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\css\adminCss\graph.css
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\css\adminCss\jqcandlestick.css
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\css\adminCss\monthly.css
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\css\adminCss\owl.carousel.css
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\css\adminCss\SidebarNav.min.css
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\css\adminCss\style.css
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\css\fontawesome-all.css
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\css\fontawesome-all.min.css
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\css\imagePreview.css
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\css\jquery-ui.css
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\css\jquery-ui.min.css
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\css\jquery-ui.structure.css
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\css\jquery-ui.structure.min.css
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\css\jquery-ui.theme.css
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\css\jquery-ui.theme.min.css
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\css\public\brandCursole.css
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\css\public\easy-responsive-tabs.css
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\css\public\fixedTable.css
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\css\public\flexslider.css
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\css\public\jquery-ui.css
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\css\public\style.css
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\css\public\team.css
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\css\SideBar.css
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\css\site.css
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\css\site.min.css
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\favicon.ico
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\font-awesome\.bower.json
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\font-awesome\.gitignore
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\font-awesome\.npmignore
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\font-awesome\bower.json
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\font-awesome\css\font-awesome.css
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\font-awesome\css\font-awesome.css.map
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\font-awesome\css\font-awesome.min.css
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\font-awesome\fonts\fontawesome-webfont.eot
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\font-awesome\fonts\fontawesome-webfont.svg
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\font-awesome\fonts\fontawesome-webfont.ttf
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\font-awesome\fonts\fontawesome-webfont.woff
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\font-awesome\fonts\fontawesome-webfont.woff2
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\font-awesome\fonts\FontAwesome.otf
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\font-awesome\HELP-US-OUT.txt
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\font-awesome\less\animated.less
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\font-awesome\less\bordered-pulled.less
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\font-awesome\less\core.less
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\font-awesome\less\fixed-width.less
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\font-awesome\less\font-awesome.less
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\font-awesome\less\icons.less
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\font-awesome\less\larger.less
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\font-awesome\less\list.less
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\font-awesome\less\mixins.less
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\font-awesome\less\path.less
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\font-awesome\less\rotated-flipped.less
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\font-awesome\less\screen-reader.less
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\font-awesome\less\stacked.less
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\font-awesome\less\variables.less
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\font-awesome\scss\font-awesome.scss
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\font-awesome\scss\_animated.scss
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\font-awesome\scss\_bordered-pulled.scss
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\font-awesome\scss\_core.scss
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\font-awesome\scss\_fixed-width.scss
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\font-awesome\scss\_icons.scss
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\font-awesome\scss\_larger.scss
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\font-awesome\scss\_list.scss
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\font-awesome\scss\_mixins.scss
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\font-awesome\scss\_path.scss
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\font-awesome\scss\_rotated-flipped.scss
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\font-awesome\scss\_screen-reader.scss
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\font-awesome\scss\_stacked.scss
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\font-awesome\scss\_variables.scss
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\fonts\fontawesome-webfont.eot
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\fonts\fontawesome-webfont.svg
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\fonts\fontawesome-webfont.ttf
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\fonts\fontawesome-webfont.woff
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\fonts\fontawesome-webfont.woff2
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\fonts\FontAwesome.otf
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\fonts\glyphicons-halflings-regular.eot
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\fonts\glyphicons-halflings-regular.ttf
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\fonts\glyphicons-halflings-regular.woff
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\fonts\glyphicons-halflings-regular.woff2
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\images\1.jpg
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\images\2.jpg
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\images\3.jpg
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\images\4.jpg
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\images\banner1.svg
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\images\banner2.svg
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\images\banner3.svg
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\images\banner4.svg
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\images\img-sprite.png
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\images\lock.png
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\images\mail.png
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\images\public\1.png
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\images\public\2.png
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\images\public\ab_pic.jpg
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\images\public\arrow.png
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\images\public\b1.jpg
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\images\public\b2.jpg
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\images\public\b3.jpg
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\images\public\b4.jpg
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\images\public\b5.jpg
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\images\public\b6.jpg
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\images\public\b7.jpg
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\images\public\b8.jpg
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\images\public\banner1.jpg
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\images\public\banner2.jpg
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\images\public\banner3.jpg
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\images\public\banner4.jpg
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\images\public\banner5.jpg
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\images\public\bb1.jpg
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\images\public\bb2.jpg
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\images\public\bottom1.jpg
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\images\public\bottom2.jpg
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\images\public\bottom3.jpg
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\images\public\bottom4.jpg
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\images\public\bot_1.jpg
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\images\public\bot_2.jpg
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\images\public\btn_next.png
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\images\public\btn_pause.png
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\images\public\btn_play.png
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\images\public\btn_prev.png
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\images\public\close_1.png
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\images\public\d1.jpg
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\images\public\d2.jpg
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\images\public\d3.jpg
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\images\public\deals.jpg
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\images\public\discount.jpg
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\images\public\Electronics.jpg
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\images\public\Garments.jpg
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\images\public\inner1.jpg
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\images\public\inner2.jpg
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\images\public\log_pic.jpg
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\images\public\m1.jpg
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\images\public\m2.jpg
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\images\public\m3.jpg
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\images\public\m4.jpg
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\images\public\m5.jpg
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\images\public\m6.jpg
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\images\public\m7.jpg
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\images\public\m8.jpg
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\images\public\mark1.png
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\images\public\Medicine.jpg
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\images\public\mid.jpg
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\images\public\nobrandImage.png
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\images\public\s1.jpg
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\images\public\s2.jpg
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\images\public\s3.jpg
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\images\public\s4.jpg
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\images\public\s5.jpg
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\images\public\s6.jpg
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\images\public\s7.jpg
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\images\public\s8.jpeg
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\images\public\s8.jpg
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\images\public\search.png
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\images\public\slideGame.jpg
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\images\public\t1.jpg
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\images\public\t2.jpg
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\images\public\t3.jpg
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\images\public\t4.jpg
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\images\public\Thumbs.db
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\images\public\tick-mark1.png
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\images\public\top1.jpg
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\images\public\top2.jpg
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\images\public\up_arrow.png
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\images\public\user.png
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\images\public\w1.jpg
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\images\public\w2.jpg
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\images\public\w3.jpg
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\images\public\w4.jpg
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\images\public\w5.jpg
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\images\public\w6.jpg
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\images\public\w7.jpg
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\images\public\w8.jpg
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\images\public\winter.jpg
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\images\search-icon.png
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\images\Thumbs.db
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\images\tick.png
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\images\user.png
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\js\adminJs\amcharts.js
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\js\adminJs\bootstrap.js
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\js\adminJs\Chart.bundle.js
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\js\adminJs\Chart.js
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\js\adminJs\Chart.min.js
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\js\adminJs\chartinator.js
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\js\adminJs\classie.js
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\js\adminJs\custom.js
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\js\adminJs\export.min.js
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\js\adminJs\images\dragIconRoundBig.svg
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\js\adminJs\images\lens.svg
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\js\adminJs\index.js
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\js\adminJs\index1.js
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\js\adminJs\index2.js
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\js\adminJs\jquery-1.11.1.min.js
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\js\adminJs\jquery.flot.js
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\js\adminJs\jquery.jqcandlestick.min.js
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\js\adminJs\jquery.nicescroll.js
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\js\adminJs\light.js
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\js\adminJs\metisMenu.min.js
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\js\adminJs\modernizr.custom.js
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\js\adminJs\monthly.js
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\js\adminJs\owl.carousel.js
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\js\adminJs\pie-chart.js
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\js\adminJs\scripts.js
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\js\adminJs\serial.js
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\js\adminJs\SidebarNav.min.js
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\js\adminJs\SimpleChart.js
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\js\adminJs\utils.js
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\js\adminJs\validator.min.js
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\js\brandcrsole.js
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\js\jquery-ui.js
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\js\jquery-ui.min.js
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\js\ModalPopup.js
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\js\public\bootstrap.js
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\js\public\easy-responsive-tabs.js
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\js\public\imagezoom.js
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\js\public\jquery-ui.js
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\js\public\jquery.countup.js
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\js\public\jquery.easing.min.js
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\js\public\jquery.flexslider.js
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\js\public\jquery.waypoints.min.js
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\js\public\minicart.min.js
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\js\public\modernizr.custom.js
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\js\public\move-top.js
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\js\public\responsiveslides.min.js
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\js\sideBar.js
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\js\site.js
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\js\site.min.js
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\lib\bootstrap\.bower.json
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\lib\bootstrap\dist\css\bootstrap-theme.css
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\lib\bootstrap\dist\css\bootstrap-theme.css.map
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\lib\bootstrap\dist\css\bootstrap-theme.min.css
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\lib\bootstrap\dist\css\bootstrap-theme.min.css.map
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\lib\bootstrap\dist\fonts\glyphicons-halflings-regular.eot
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\lib\bootstrap\dist\fonts\glyphicons-halflings-regular.svg
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\lib\bootstrap\dist\fonts\glyphicons-halflings-regular.ttf
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\lib\bootstrap\dist\fonts\glyphicons-halflings-regular.woff
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\lib\bootstrap\dist\fonts\glyphicons-halflings-regular.woff2
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\lib\bootstrap\dist\js\npm.js
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\lib\bootstrap\LICENSE
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\lib\jquery-validation-unobtrusive\.bower.json
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\lib\jquery-validation\.bower.json
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\lib\jquery-validation\dist\additional-methods.js
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\lib\jquery-validation\LICENSE.md
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\lib\jquery\.bower.json
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\lib\jquery\dist\jquery.js
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\lib\jquery\dist\jquery.min.js
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\lib\jquery\dist\jquery.min.map
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\lib\jquery\LICENSE.txt
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\uploads\ProductImages\ACCU-CHEK AVIVA BLOOD GLUCOSE METER_236b8b4c.png
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\uploads\ProductImages\Acer Aspire ES1-533 Intel CDC N3350_34fe4528.png
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\uploads\ProductImages\Acer Aspire ES1-533 Intel CDC N3350_5f985567.png
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\uploads\ProductImages\Acer Aspire ES1-533 Intel CDC N3350_a7e3e86f (2).png
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\uploads\ProductImages\Acer Aspire ES1-533 Intel CDC N3350_a7e3e86f.png
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\uploads\ProductImages\Acer Aspire ES1-533 Intel CDC N3350_c587d324.png
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\uploads\ProductImages\Apple iPad Pro 12.9 (2017)_379c2fbb.png
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\uploads\ProductImages\Apple iPad Pro 12.9 (2017)_624eaa3e.png
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\uploads\ProductImages\Apple iPhone 8 Plus_778ef8ea.png
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\uploads\ProductImages\Apple iPhone 8 Plus_7cc36634.png
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\uploads\ProductImages\Apple iPhone X_684eed1f.png
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\uploads\ProductImages\Apple iPhone X_6ea0493f.png
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\uploads\ProductImages\Apple Macbook Air (2015)_fd2239fe.png
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\uploads\ProductImages\Apple Macbook Air (2017) Dual Core _26961888.png
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\uploads\ProductImages\Apple Macbook Air (2017) Dual Core _b3d64936.png
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\uploads\ProductImages\Asus 451 Ca_10802f37.png
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\uploads\ProductImages\Asus 451 Ca_2350cc44.png
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\uploads\ProductImages\Asus 451 Ca_717d242c.png
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\uploads\ProductImages\Asus 451 Ca_f855a968.png
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\uploads\ProductImages\Asus X441NA Intel CDC N3350_8df7909c.png
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\uploads\ProductImages\Asus X441NA Intel CDC N3350_bbc9c8a1.png
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\uploads\ProductImages\Asus X441NA Intel _d68afeae.png
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\uploads\ProductImages\Asus X540YA AMD E1-7010_2688da78.png
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\uploads\ProductImages\Asus X540YA AMD E1-7010_6138cec5.png
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\uploads\ProductImages\Asus X540YA AMD E1-7010_d0084b8a.png
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\uploads\ProductImages\Asus Zenphone_79ebab83.png
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\uploads\ProductImages\Asus_7f1ec8a4.png
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\uploads\ProductImages\Asus_8d3871e9.png
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\uploads\ProductImages\Asus_d9c208eb.png
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\uploads\ProductImages\AYUR HERBAL AMLA SHIKAKAI SHAMPOO_cb152ad1.png
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\uploads\ProductImages\BAJAJ ALMOND DROP OIL 200ML_b2f739af.png
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\uploads\ProductImages\BELLA HERBS SANITARY NAPKINS _c2e2a799.png
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\uploads\ProductImages\Black Flippy Dress_b4dfbfb6.png
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\uploads\ProductImages\Black Flippy Dress_ee3ee2b7.png
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\uploads\ProductImages\Black Jeans With Stretch_269da21a.png
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\uploads\ProductImages\Black Jeans With Stretch_388d2c24.png
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\uploads\ProductImages\Black Jeans With Stretch_b50fad8d.png
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\uploads\ProductImages\Canon - EOS Rebel T6 DSLR Camera with EF-S 18-55mm_7df8f8a4.png
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\uploads\ProductImages\Cloth.jpg
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\uploads\ProductImages\DABUR CHYAWANPRASH_e9db3403.png
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\uploads\ProductImages\deals.jpg
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\uploads\ProductImages\Dell - Inspiron 2-in-1_1ab53155.png
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\uploads\ProductImages\Dell - Inspiron 2-in-1_4e0cebcb.png
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\uploads\ProductImages\Dell - Inspiron 2-in-1_76918bf5.png
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\uploads\ProductImages\Dell - Inspiron 2-in-1_8fcbfe1a.png
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\uploads\ProductImages\Dhak Dhol Light Gray Synthetic Fabric Long Sleeve Tshirt For Men_8e7e39dc.png
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\uploads\ProductImages\Dhak Dhol Light Gray Synthetic Fabric Long Sleeve Tshirt For Men_b80f2508.png
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\uploads\ProductImages\Dhak Dhol Maroon Synthetic Fabric Long Sleeve Tshirt For Men_331a5d17.png
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\uploads\ProductImages\Dhak Dhol Maroon Synthetic Fabric Long Sleeve Tshirt For Men_81e18103.png
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\uploads\ProductImages\discount.jpg
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\uploads\ProductImages\Electronics.jpg
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\uploads\ProductImages\FACE 2 Gray Cotton Casual Long Sleeve T-Shirt For Men - FCF46_29f2dcd6.png
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\uploads\ProductImages\FACE 2 Gray Cotton Casual Long Sleeve T-Shirt For Men - FCF46_54bbf7a6.png
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\uploads\ProductImages\FACE 2 Gray Cotton Casual Long Sleeve T-Shirt For Men - FCF46_c67217b5.png
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\uploads\ProductImages\Google - Pixel 2 4G_16a6469d.png
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\uploads\ProductImages\Google - Pixel 2 4G_27133ed9.png
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\uploads\ProductImages\Google - Pixel 2 4G_51438be6.png
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\uploads\ProductImages\Google - Pixel 2 4G_b5f52c77.png
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\uploads\ProductImages\Grey Neppy Texture Double Breasted Blazer_0a5ef7fb.png
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\uploads\ProductImages\Grey Neppy Texture Double Breasted Blazer_2536752e.png
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\uploads\ProductImages\Grey Neppy Texture Double Breasted Blazer_383d0714.png
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\uploads\ProductImages\HP 14-AM005TU PQC N3710_a60f0682.png
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\uploads\ProductImages\HP 15-BW099AU AMD DUAL CORE_1841440a.png
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\uploads\ProductImages\HP 15-BW099AU AMD DUAL CORE_fd3881a1.png
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\uploads\ProductImages\Hp Laptop 890_009f75e3.png
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\uploads\ProductImages\HP Pavelion_a871b958.png
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\uploads\ProductImages\HP ProBook 440 G5 Notebook_d045d2b6.png
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\uploads\ProductImages\Hp-151_d540c19e.png
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\uploads\ProductImages\HUGGIES DRY _8605b669.png
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\uploads\ProductImages\Iphone 10_503b110b.png
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\uploads\ProductImages\Iphone 10_fb857d9b.png
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\uploads\ProductImages\LG - G6 32GB - Platinum (Sprint)_8dbf9912.png
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\uploads\ProductImages\Medicine.jpg
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\uploads\ProductImages\Navy Tencel® Joggers_4278eccd.png
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\uploads\ProductImages\Navy Tencel® Joggers_c5ea827d.png
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\uploads\ProductImages\Nep Suit Jacket_1925aa07.png
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\uploads\ProductImages\Nep Suit Jacket_876a8a3c.png
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\uploads\ProductImages\Nep Suit Jacket_e080a64d.png
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\uploads\ProductImages\Nep Trousers_2dc5c0de.png
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\uploads\ProductImages\Nep Trousers_a93312d9.png
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\uploads\ProductImages\Nokia 3310 3G_02260a97.png
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\uploads\ProductImages\Nokia 6 (2018)_4a283865.png
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\uploads\ProductImages\noproductimage.png
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\uploads\ProductImages\PAMPERS BABY-DRY_f9099988.png
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\uploads\ProductImages\PARACHUTE ADVANSED AYURVEDICHAIR OIL 95ML_09c70e22.png
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\uploads\ProductImages\Premium Down Fill Parka_54edcd82.png
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\uploads\ProductImages\Premium Down Fill Parka_5baedb7a.png
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\uploads\ProductImages\Premium Down Fill Parka_77d11d13.png
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\uploads\ProductImages\Rib Bottom Sweater_2309ce93.png
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\uploads\ProductImages\Rib Bottom Sweater_ab4a4ddb.png
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\uploads\ProductImages\Samsung  82 Smart TV_08307e8a.png
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\uploads\ProductImages\Samsung  82 Smart TV_44e0ac02.png
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\uploads\ProductImages\Samsung  82 Smart TV_ea7006f7.png
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\uploads\ProductImages\Samsung Galaxy A8 (2018)_e7532e65.png
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\uploads\ProductImages\Samsung Galaxy J2 Pro (2018)_0f95b8e5.png
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\uploads\ProductImages\Samsung Galaxy J2 Pro (2018)_15dc230b.png
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\uploads\ProductImages\Samsung Galaxy J2 Pro (2018)_5af998de.png
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\uploads\ProductImages\Samsung Galaxy Note8_0e84b091.png
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\uploads\ProductImages\Samsung Galaxy Note8_eebd98b6.png
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\uploads\ProductImages\slideGame.jpg
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\uploads\ProductImages\Sony - ZX220BT Wireless On-Ear Headphones_356eb355.png
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\uploads\ProductImages\Sony - ZX220BT Wireless On-Ear Headphones_81f6d8dc.png
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\uploads\ProductImages\Sony - ZX220BT Wireless On-Ear Headphones_f605187c.png
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\uploads\ProductImages\Sony 75 inch 4K Smart TV_1026a745.png
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\uploads\ProductImages\Sony 75 inch 4K Smart TV_532a7d90.png
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\uploads\ProductImages\Sony 75 inch 4K Smart TV_a9b353d9.png
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\uploads\ProductImages\T-shart_0eb1df99.png
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\uploads\ProductImages\T-shart_418afe85.png
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\uploads\ProductImages\T-shart_765508d1.png
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\uploads\ProductImages\T-shart_b85bef04.png
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\uploads\ProductImages\T-shart_e4f22611.png
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\uploads\ProductImages\T-shart_f9f80e48.png
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\uploads\ProductImages\Thumbs.db
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\uploads\ProductImages\winter.jpg
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\uploads\ProductManuals\Asus 451 Ca_2.pdf
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\uploads\ProductManuals\Asus_1.pdf
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\uploads\ProductManuals\HP Pavelion_4.pdf
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\wwwroot\uploads\Thumbs.db
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\appsettings.Development.json
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\appsettings.json
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\bundleconfig.json
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\testhost.exe
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\testhost.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Ecommerce.UnitTest.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Ecommerce.UnitTest.runtimeconfig.json
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Ecommerce.UnitTest.pdb
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Castle.Core.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\VaderSharp.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\System.Net.Http.Formatting.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.AspNetCore.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.AspNetCore.Antiforgery.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.AspNetCore.Authentication.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.AspNetCore.Authentication.Cookies.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.AspNetCore.Authentication.Facebook.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.AspNetCore.Authentication.Google.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.AspNetCore.Authentication.MicrosoftAccount.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.AspNetCore.Authentication.OAuth.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.AspNetCore.Authentication.Twitter.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.AspNetCore.Authentication.WsFederation.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.AspNetCore.CookiePolicy.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.AspNetCore.Cors.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.AspNetCore.DataProtection.Extensions.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.AspNetCore.Diagnostics.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.AspNetCore.HostFiltering.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.AspNetCore.Hosting.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.AspNetCore.Http.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.AspNetCore.Http.Connections.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.AspNetCore.HttpOverrides.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.AspNetCore.HttpsPolicy.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.AspNetCore.Identity.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.AspNetCore.Identity.UI.Views.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.AspNetCore.Localization.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.AspNetCore.Localization.Routing.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.AspNetCore.Mvc.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.AspNetCore.Mvc.RazorPages.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.AspNetCore.NodeServices.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.AspNetCore.Owin.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.AspNetCore.Razor.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.AspNetCore.ResponseCaching.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.AspNetCore.ResponseCompression.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.AspNetCore.Rewrite.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.AspNetCore.Routing.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.AspNetCore.Server.HttpSys.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.AspNetCore.Session.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.AspNetCore.SignalR.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.AspNetCore.SignalR.Core.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.AspNetCore.SpaServices.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.AspNetCore.SpaServices.Extensions.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.AspNetCore.StaticFiles.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.AspNetCore.WebSockets.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.CodeAnalysis.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.EntityFrameworkCore.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.Extensions.Caching.SqlServer.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.Extensions.Configuration.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.Extensions.Configuration.Ini.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.Extensions.Configuration.KeyPerFile.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.Extensions.Configuration.Xml.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.Extensions.Hosting.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.Extensions.Http.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.Extensions.Localization.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.Extensions.Logging.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.Extensions.Logging.Console.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.Extensions.Logging.TraceSource.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.Extensions.ObjectPool.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.Extensions.Options.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.Extensions.Primitives.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.Extensions.WebEncoders.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.IdentityModel.Logging.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.IdentityModel.Protocols.WsFederation.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.IdentityModel.Tokens.Saml.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.IdentityModel.Xml.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.Net.Http.Headers.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.TestPlatform.Utilities.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Moq.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Newtonsoft.Json.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Newtonsoft.Json.Bson.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\NuGet.Frameworks.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Remotion.Linq.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\StackifyMiddleware.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\System.Data.SqlClient.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\System.Interactive.Async.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\System.IO.Pipelines.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\System.Net.WebSockets.WebSocketProtocol.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\System.Reactive.Core.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\System.Reactive.Interfaces.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\System.Security.Cryptography.Pkcs.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\System.Security.Cryptography.Xml.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\System.Security.Permissions.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\System.Security.Principal.Windows.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\System.Text.Encoding.CodePages.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\System.Text.Encodings.Web.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\System.Threading.Channels.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\xunit.abstractions.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\xunit.assert.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\xunit.core.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\xunit.execution.dotnet.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\runtimes\win-arm64\native\sni.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\runtimes\win-x64\native\sni.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\runtimes\win-x86\native\sni.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\runtimes\win\lib\netcoreapp2.1\System.Security.Cryptography.Pkcs.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\runtimes\unix\lib\netcoreapp2.0\System.Security.Principal.Windows.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\runtimes\win\lib\netcoreapp2.0\System.Security.Principal.Windows.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Ecommerce_MVC_Core.dll
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Ecommerce_MVC_Core.pdb
+C:\Users\Santnu\Desktop\Ecommerce_MVC_Core\Ecommerce.UnitTest\bin\Debug\netcoreapp2.1\publish\Ecommerce.UnitTest.deps.json
